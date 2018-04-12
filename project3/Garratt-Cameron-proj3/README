@@ -1,0 +1,34 @@
+## Project 3 
+
+Cameron Garratt (810-382-829)
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+To compile my code, type:
+
+```
+$ make compile
+```
+
+To run my code (after compiling it), type one of the following:
+
+```
+$ make run 
+```
+
+## Short Timing Theory
+
+My timing actully did not differ that dramatically. I am guessing that using malloc allowed for on the spot memory allocation which is probably faster than doing it without dynamic allocation. However, the differnce in my program was not substantial. I hope I didn't do it incorrectly.
+
+
+## Optional Quote(s)
+
+In order to understand recursion, you must first understand recursion.
+
+There is no system but GNU, and linux is one of its kernels.

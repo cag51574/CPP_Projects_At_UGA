@@ -1,0 +1,19 @@
+#include <array>
+#include "Player.h"
+
+class Board
+{
+ public:
+
+  Board(const char *);
+  void printBoard() const;
+  void gameOver(const char &, const char &) const;
+
+ private:
+
+  Player p1;
+  Player p2;
+  
+};
+
+  

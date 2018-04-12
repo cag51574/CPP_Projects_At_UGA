@@ -1,0 +1,25 @@
+#include <iostream>
+#include "SimpleComputerPlayer.h"
+#include <string>
+#include <ctime>
+
+
+using namespace std;
+
+SimpleComputerPlayer::SimpleComputerPlayer(){
+
+
+
+  
+}
+
+void SimpleComputerPlayer::makeMove(string squares[6][7]) {
+  for(int i = 0; i < 6;i++){
+     for(int i = 0; i < 7;i++){
+       cout <<  rand()%6 << endl;
+       
+
+     }
+  }
+
+}

@@ -1,0 +1,66 @@
+./proj2.out -h -c
+Let's Start a Game of Connect 4
+Player One, please enter your name: Player Two, please enter your name: Sammy
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+cet's turn, Please enter an integer between 1 and 7:-1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+cet's turn, Please enter an integer between 1 and 7:-1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+cet's turn, Please enter an integer between 1 and 7:-1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+cet's turn, Please enter an integer between 1 and 7:-1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+Zoey Connected Four and Wins!

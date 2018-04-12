@@ -1,0 +1,36 @@
+#include <iostream>
+#include <cstdlib>
+#include "Board.h"
+using namespace std;
+
+
+
+int main(int argc, char * argv[]){
+
+  char v[] = {*argv[0],*argv[1]};
+
+  string s;
+  
+  for(int i = 1;i<=2;i++){
+    s = argv[i];
+    
+    /*
+     * Check for human flag
+     */ 
+    if(s.compare("-h")==0) {
+       v[i-1]= 'h';
+    }
+
+    /*
+     * Looks for -e flag and then stores the integer after as the
+     *   integer the equation evaluates to.
+     */ 
+    if(s.compare("-c")==0) {
+       v[i-1]= 'c';
+    }
+  }
+
+  Board b = new Board(&v);
+  return EXIT_SUCCESS;
+}
+

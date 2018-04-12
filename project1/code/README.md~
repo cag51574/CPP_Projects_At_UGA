@@ -1,0 +1,13 @@
+To compile this code, simply type:
+
+$ make compile
+
+To run the code with the sample test cases, type:
+
+$ make run
+
+To clean the directory, type:
+
+$ make clean
+
+This program takes input from the command line and interprets it to produce a list of all possible combinations, the 5 input integers could be put together without repeating, using either arethmetic or bitwise operators, to equal the end result (also input from the command line). 

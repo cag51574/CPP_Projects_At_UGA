@@ -1,0 +1,58 @@
+#include <iostream>
+#include <cstdlib>
+#include "proj1.h"
+using namespace std;
+
+
+int main(int argc, char * argv[]){
+   int e;
+   int v[5] = {};
+   char flag;
+   for(int i = 0; i < argc; i++){
+      string s = argv[i];
+      
+      /*
+       * Looks for -b flag which tells the program to use bitwise operators
+       */ 
+      if(s.compare("-b")==0) {
+	 flag = 'b';
+      }
+
+      /*
+       * Looks for -e flag and then stores the integer after as the
+       *   integer the equation evaluates to.
+       */ 
+       if(s.compare("-e")==0) {
+         e = stoi(argv[i+1]);
+      }
+
+      /*
+       * Looks for -v flag and stores the next 5 arguments as integers.
+       */ 
+      if(s.compare("-v")==0) {
+         for(int j = 0; j < 5; j++){
+	    v[j] = stoi(argv[i+j+1]);
+         }  
+      }
+
+      /*
+       * Looks for -a flag and tells the program to use arethmetic operators.
+       */ 
+      if(s.compare("-a")==0){
+	 flag = 'a';  
+      }
+   }
+
+   /*
+    * Checks the flag, then calls the appropriate function.
+    */
+   if(flag == 'b'){
+      bitOp(e,v);
+   } else {
+      arethOp(e,v);
+   }
+
+   return EXIT_SUCCESS;
+}
+
+  

@@ -1,0 +1,147 @@
+./proj2.out -c -c
+Let's Start a Game of Connect 4
+
+Player One, please enter your name: Zoey
+Player Two, please enter your name: Zoey
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 1
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 1
+|_|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 1
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 2
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 2
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 2
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|_|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 2
+|O|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 2
+|O|_|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 2
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 3
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|X|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 3
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 3
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|_|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 3
+|O|O|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 3
+|O|O|_|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 3
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7: 4
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|_|_|_|_|
+|O|O|O|_|_|_|_|
+|X|X|X|X|_|_|_|
+
+Zoey Connected Four and Wins!
+

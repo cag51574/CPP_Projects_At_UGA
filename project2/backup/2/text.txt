@@ -1,0 +1,1049 @@
+./proj2.out -c -c
+Let's Start a Game of Connect 4
+Player One, please enter your name: ZoeyPlayer Two, please enter your name: Sammy|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+coord:  4,5
+piece:  0
+count:  0
+
+coord:  3,5
+piece:  0
+count:  0
+
+coord:  2,5
+piece:  0
+count:  0
+
+coord:  1,5
+piece:  0
+count:  0
+
+coord:  4,4
+piece:  0
+count:  0
+
+coord:  3,4
+piece:  0
+count:  0
+
+coord:  2,4
+piece:  0
+count:  0
+
+coord:  1,4
+piece:  0
+count:  0
+
+coord:  4,3
+piece:  0
+count:  0
+
+coord:  3,3
+piece:  0
+count:  0
+
+coord:  2,3
+piece:  0
+count:  0
+
+coord:  1,3
+piece:  0
+count:  0
+
+coord:  4,2
+piece:  0
+count:  0
+
+coord:  3,2
+piece:  0
+count:  0
+
+coord:  2,2
+piece:  0
+count:  0
+
+coord:  1,2
+piece:  0
+count:  0
+
+coord:  4,1
+piece:  0
+count:  0
+
+coord:  3,1
+piece:  0
+count:  0
+
+coord:  2,1
+piece:  0
+count:  0
+
+coord:  1,1
+piece:  0
+count:  0
+
+Sammy's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+coord:  4,5
+piece:  X
+count:  0
+
+coord:  3,5
+piece:  X
+count:  0
+
+coord:  2,5
+piece:  X
+count:  0
+
+coord:  1,5
+piece:  X
+count:  0
+
+coord:  4,4
+piece:  X
+count:  0
+
+coord:  3,4
+piece:  X
+count:  0
+
+coord:  2,4
+piece:  X
+count:  0
+
+coord:  1,4
+piece:  X
+count:  0
+
+coord:  4,3
+piece:  X
+count:  0
+
+coord:  3,3
+piece:  X
+count:  0
+
+coord:  2,3
+piece:  X
+count:  0
+
+coord:  1,3
+piece:  X
+count:  0
+
+coord:  4,2
+piece:  X
+count:  0
+
+coord:  3,2
+piece:  X
+count:  0
+
+coord:  2,2
+piece:  X
+count:  0
+
+coord:  1,2
+piece:  X
+count:  0
+
+coord:  4,1
+piece:  X
+count:  0
+
+coord:  3,1
+piece:  X
+count:  0
+
+coord:  2,1
+piece:  X
+count:  0
+
+coord:  1,1
+piece:  X
+count:  0
+
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+coord:  4,5
+piece:  0
+count:  0
+
+coord:  3,5
+piece:  0
+count:  0
+
+coord:  2,5
+piece:  0
+count:  0
+
+coord:  1,5
+piece:  0
+count:  0
+
+coord:  4,4
+piece:  0
+count:  0
+
+coord:  3,4
+piece:  0
+count:  0
+
+coord:  2,4
+piece:  0
+count:  0
+
+coord:  1,4
+piece:  0
+count:  0
+
+coord:  4,3
+piece:  0
+count:  0
+
+coord:  3,3
+piece:  0
+count:  0
+
+coord:  2,3
+piece:  0
+count:  0
+
+coord:  1,3
+piece:  0
+count:  0
+
+coord:  4,2
+piece:  0
+count:  0
+
+coord:  3,2
+piece:  0
+count:  0
+
+coord:  2,2
+piece:  0
+count:  0
+
+coord:  1,2
+piece:  0
+count:  0
+
+coord:  4,1
+piece:  0
+count:  0
+
+coord:  3,1
+piece:  0
+count:  0
+
+coord:  2,1
+piece:  0
+count:  0
+
+coord:  1,1
+piece:  0
+count:  0
+
+Sammy's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+coord:  4,5
+piece:  X
+count:  0
+
+coord:  3,5
+piece:  X
+count:  0
+
+coord:  2,5
+piece:  X
+count:  0
+
+coord:  1,5
+piece:  X
+count:  0
+
+coord:  4,4
+piece:  X
+count:  0
+
+coord:  3,4
+piece:  X
+count:  0
+
+coord:  2,4
+piece:  X
+count:  0
+
+coord:  1,4
+piece:  X
+count:  0
+
+coord:  4,3
+piece:  X
+count:  0
+
+coord:  3,3
+piece:  X
+count:  0
+
+coord:  2,3
+piece:  X
+count:  0
+
+coord:  1,3
+piece:  X
+count:  0
+
+coord:  4,2
+piece:  X
+count:  0
+
+coord:  3,2
+piece:  X
+count:  0
+
+coord:  2,2
+piece:  X
+count:  0
+
+coord:  1,2
+piece:  X
+count:  0
+
+coord:  4,1
+piece:  X
+count:  0
+
+coord:  3,1
+piece:  X
+count:  0
+
+coord:  2,1
+piece:  X
+count:  0
+
+coord:  1,1
+piece:  X
+count:  0
+
+Zoey's turn, Please enter an integer between 1 and 7:
+|_|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+coord:  4,5
+piece:  0
+count:  0
+
+coord:  3,5
+piece:  0
+count:  0
+
+coord:  2,5
+piece:  0
+count:  0
+
+coord:  1,5
+piece:  0
+count:  0
+
+coord:  4,4
+piece:  0
+count:  0
+
+coord:  3,4
+piece:  0
+count:  0
+
+coord:  2,4
+piece:  0
+count:  0
+
+coord:  1,4
+piece:  0
+count:  0
+
+coord:  4,3
+piece:  0
+count:  0
+
+coord:  3,3
+piece:  0
+count:  0
+
+coord:  2,3
+piece:  0
+count:  0
+
+coord:  1,3
+piece:  0
+count:  0
+
+coord:  4,2
+piece:  0
+count:  0
+
+coord:  3,2
+piece:  0
+count:  0
+
+coord:  2,2
+piece:  0
+count:  0
+
+coord:  1,2
+piece:  0
+count:  0
+
+coord:  4,1
+piece:  0
+count:  0
+
+coord:  3,1
+piece:  0
+count:  0
+
+coord:  2,1
+piece:  0
+count:  0
+
+coord:  1,1
+piece:  0
+count:  0
+
+Sammy's turn, Please enter an integer between 1 and 7:
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+coord:  4,5
+piece:  X
+count:  0
+
+coord:  3,5
+piece:  X
+count:  0
+
+coord:  2,5
+piece:  X
+count:  0
+
+coord:  1,5
+piece:  X
+count:  0
+
+coord:  4,4
+piece:  X
+count:  0
+
+coord:  3,4
+piece:  X
+count:  0
+
+coord:  2,4
+piece:  X
+count:  0
+
+coord:  1,4
+piece:  X
+count:  0
+
+coord:  4,3
+piece:  X
+count:  0
+
+coord:  3,3
+piece:  X
+count:  0
+
+coord:  2,3
+piece:  X
+count:  0
+
+coord:  1,3
+piece:  X
+count:  0
+
+coord:  4,2
+piece:  X
+count:  0
+
+coord:  3,2
+piece:  X
+count:  0
+
+coord:  2,2
+piece:  X
+count:  0
+
+coord:  1,2
+piece:  X
+count:  0
+
+coord:  4,1
+piece:  X
+count:  0
+
+coord:  3,1
+piece:  X
+count:  0
+
+coord:  2,1
+piece:  X
+count:  0
+
+coord:  1,1
+piece:  X
+count:  0
+
+Zoey's turn, Please enter an integer between 1 and 7:
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+coord:  4,5
+piece:  0
+count:  0
+
+coord:  3,5
+piece:  0
+count:  0
+
+coord:  2,5
+piece:  0
+count:  0
+
+coord:  1,5
+piece:  0
+count:  0
+
+coord:  4,4
+piece:  0
+count:  0
+
+coord:  3,4
+piece:  0
+count:  0
+
+coord:  2,4
+piece:  0
+count:  0
+
+coord:  1,4
+piece:  0
+count:  0
+
+coord:  4,3
+piece:  0
+count:  0
+
+coord:  3,3
+piece:  0
+count:  0
+
+coord:  2,3
+piece:  0
+count:  0
+
+coord:  1,3
+piece:  0
+count:  0
+
+coord:  4,2
+piece:  0
+count:  0
+
+coord:  3,2
+piece:  0
+count:  0
+
+coord:  2,2
+piece:  0
+count:  0
+
+coord:  1,2
+piece:  0
+count:  0
+
+coord:  4,1
+piece:  0
+count:  0
+
+coord:  3,1
+piece:  0
+count:  0
+
+coord:  2,1
+piece:  0
+count:  0
+
+coord:  1,1
+piece:  0
+count:  0
+
+Sammy's turn, Please enter an integer between 1 and 7:
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+coord:  4,5
+piece:  X
+count:  0
+
+coord:  3,5
+piece:  X
+count:  0
+
+coord:  2,5
+piece:  X
+count:  0
+
+coord:  1,5
+piece:  X
+count:  0
+
+coord:  4,4
+piece:  X
+count:  0
+
+coord:  3,4
+piece:  X
+count:  0
+
+coord:  2,4
+piece:  X
+count:  0
+
+coord:  1,4
+piece:  X
+count:  0
+
+coord:  4,3
+piece:  X
+count:  0
+
+coord:  3,3
+piece:  X
+count:  0
+
+coord:  2,3
+piece:  X
+count:  0
+
+coord:  1,3
+piece:  X
+count:  0
+
+coord:  4,2
+piece:  X
+count:  0
+
+coord:  3,2
+piece:  X
+count:  0
+
+coord:  2,2
+piece:  X
+count:  0
+
+coord:  1,2
+piece:  X
+count:  0
+
+coord:  4,1
+piece:  X
+count:  0
+
+coord:  3,1
+piece:  X
+count:  0
+
+coord:  2,1
+piece:  X
+count:  0
+
+coord:  1,1
+piece:  X
+count:  0
+
+Zoey's turn, Please enter an integer between 1 and 7:
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|_|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+coord:  4,5
+piece:  0
+count:  0
+
+coord:  3,5
+piece:  0
+count:  0
+
+coord:  2,5
+piece:  0
+count:  0
+
+coord:  1,5
+piece:  0
+count:  0
+
+coord:  4,4
+piece:  0
+count:  0
+
+coord:  3,4
+piece:  0
+count:  0
+
+coord:  2,4
+piece:  0
+count:  0
+
+coord:  1,4
+piece:  0
+count:  0
+
+coord:  4,3
+piece:  0
+count:  0
+
+coord:  3,3
+piece:  0
+count:  0
+
+coord:  2,3
+piece:  0
+count:  0
+
+coord:  1,3
+piece:  0
+count:  0
+
+coord:  4,2
+piece:  0
+count:  0
+
+coord:  3,2
+piece:  0
+count:  0
+
+coord:  2,2
+piece:  0
+count:  0
+
+coord:  1,2
+piece:  0
+count:  0
+
+coord:  4,1
+piece:  0
+count:  0
+
+coord:  3,1
+piece:  0
+count:  0
+
+coord:  2,1
+piece:  0
+count:  0
+
+coord:  1,1
+piece:  0
+count:  0
+
+Sammy's turn, Please enter an integer between 1 and 7:
+|0|_|_|_|_|_|_|
+|X|_|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+coord:  4,5
+piece:  X
+count:  0
+
+coord:  3,5
+piece:  X
+count:  0
+
+coord:  2,5
+piece:  X
+count:  0
+
+coord:  1,5
+piece:  X
+count:  0
+
+coord:  4,4
+piece:  X
+count:  0
+
+coord:  3,4
+piece:  X
+count:  0
+
+coord:  2,4
+piece:  X
+count:  0
+
+coord:  1,4
+piece:  X
+count:  0
+
+coord:  4,3
+piece:  X
+count:  0
+
+coord:  3,3
+piece:  X
+count:  0
+
+coord:  2,3
+piece:  X
+count:  0
+
+coord:  1,3
+piece:  X
+count:  0
+
+coord:  4,2
+piece:  X
+count:  0
+
+coord:  3,2
+piece:  X
+count:  0
+
+coord:  2,2
+piece:  X
+count:  0
+
+coord:  1,2
+piece:  X
+count:  0
+
+coord:  4,1
+piece:  X
+count:  0
+
+coord:  3,1
+piece:  X
+count:  0
+
+coord:  2,1
+piece:  X
+count:  0
+
+coord:  1,1
+piece:  X
+count:  0
+
+Zoey's turn, Please enter an integer between 1 and 7:
+|0|_|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+coord:  4,5
+piece:  0
+count:  0
+
+coord:  3,5
+piece:  0
+count:  0
+
+coord:  2,5
+piece:  0
+count:  0
+
+coord:  1,5
+piece:  0
+count:  0
+
+coord:  4,4
+piece:  0
+count:  0
+
+coord:  3,4
+piece:  0
+count:  0
+
+coord:  2,4
+piece:  0
+count:  0
+
+coord:  1,4
+piece:  0
+count:  0
+
+coord:  4,3
+piece:  0
+count:  0
+
+coord:  3,3
+piece:  0
+count:  0
+
+coord:  2,3
+piece:  0
+count:  0
+
+coord:  1,3
+piece:  0
+count:  0
+
+coord:  4,2
+piece:  0
+count:  0
+
+coord:  3,2
+piece:  0
+count:  0
+
+coord:  2,2
+piece:  0
+count:  0
+
+coord:  1,2
+piece:  0
+count:  0
+
+coord:  4,1
+piece:  0
+count:  0
+
+coord:  3,1
+piece:  0
+count:  0
+
+coord:  2,1
+piece:  0
+count:  0
+
+coord:  1,1
+piece:  0
+count:  0
+
+Sammy's turn, Please enter an integer between 1 and 7:
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+|0|0|_|_|_|_|_|
+|X|X|_|_|_|_|_|
+coord:  4,5
+piece:  X
+count:  0
+
+coord:  3,5
+piece:  X
+count:  0
+
+coord:  2,5
+piece:  X
+count:  0
+
+coord:  1,5
+piece:  X
+count:  0
+
+coord:  4,4
+piece:  X
+count:  0
+
+coord:  3,4
+piece:  X
+count:  0
+
+coord:  2,4
+piece:  X
+count:  0
+
+coord:  1,4
+piece:  X
+count:  0
+
+coord:  4,3
+piece:  X
+count:  0
+
+coord:  3,3
+piece:  X
+count:  0
+
+coord:  2,3
+piece:  X
+count:  0
+
+coord:  1,3
+piece:  X
+count:  0
+
+coord:  4,2
+piece:  X
+count:  0
+
+coord:  3,2
+piece:  X
+count:  0
+
+coord:  2,2
+piece:  X
+count:  0
+
+coord:  1,2
+piece:  X
+count:  0
+
+coord:  4,1
+piece:  X
+count:  0
+
+coord:  3,1
+piece:  X
+count:  1
+
+coord:  2,1
+piece:  X
+count:  2
+
+Zoey Connected Four and Wins!

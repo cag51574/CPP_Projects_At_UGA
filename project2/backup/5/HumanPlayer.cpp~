@@ -1,0 +1,37 @@
+ 
+ 
+#include <iostream>
+#include "HumanPlayer.h"
+#include <string>
+
+using namespace std;
+
+HumanPlayer::HumanPlayer(const string name, const char piece) : Player(name,piece) {}
+
+
+int HumanPlayer::makeMove(char squares[6][7]) {
+  string  n =getName();
+  cout << n << "'s turn, Please enter an integer between 1 and 7:";
+  int  move; cin >> move;
+  if(move > 0 && move < 8){
+    for(int i = 5; i >= 0; i--){
+      if(squares[i][move]=='_'){
+        squares[i][move]=piece;
+        return 1;
+      }
+    }
+  }
+
+  try{
+    if(squares[0][move-1] != '_'){
+      cout << "You can't move here." << endl;
+      makeMove(squares);
+
+    }
+  }catch(int e){
+    cout << "Invalid move"<<endl;
+    makeMove(squares);
+  }
+    
+  return 0;
+}

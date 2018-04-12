@@ -1,0 +1,35 @@
+
+## Project 2 Connect 4
+
+Cameron Garratt (810-382-829)
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+To compile my code, type:
+
+```
+$ make compile
+```
+
+To run my code (after compiling it), type one of the following:
+
+```
+$ make run 
+```
+
+##About the game
+
+To play the game, assuming you are human, you will at first be prompted to enter your name.
+After doing so, you will be presented a board.
+Choose a number 1-7 to enter. Entering a number will place a piece at the location
+of your choosing. The objective is to connect 4 pieces in a row. Good luck! 
+
+## Optional Quote(s)
+
+There is no system but GNU, and linux is one of its kernels.
